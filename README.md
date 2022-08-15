@@ -41,8 +41,8 @@ Like product key memories, Ngrammer parameters need to have a higher learning ra
 ```bibtex
 @inproceedings{thai2020using,
     title   = {N-grammer: Augmenting Transformers with latent n-grams},
-    author  = {Anonymous},
+    author  = {Aurko Roy, Rohan Anil, Guangda Lai, Benjamin Lee, Jeffrey Zhao, Shuyuan Zhang, Shibo Wang, Ye Zhang, Shen Wu, Rigel Swavely, Tao (Alex)Yu, Phuong Dao, Christopher Fifty, Zhifeng Chen, Yonghui Wu},
     year    = {2021},
-    url     = {https://openreview.net/forum?id=GxjCYmQAody}
+    url     = {https://arxiv.org/abs/2207.06366v1}
 }
 ```
